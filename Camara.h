@@ -6,6 +6,7 @@
 #define CG2023_CAMARA_H
 
 #include "Rayo.h"
+#include "Luz.h"
 #include "vec3.h"
 #include "CImg.h"
 #include "Objeto.h"
